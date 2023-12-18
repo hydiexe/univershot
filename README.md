@@ -1,8 +1,5 @@
  
 
-
-> Open this page at [https://coderguy-co.github.io/multi-level-raycaster/](https://coderguy-co.github.io/multi-level-raycaster/)
-
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
